@@ -1,0 +1,15 @@
+// FOnts
+@import 'fonts';
+
+// UTILS
+@import './utils/mixin';
+@import './utils/variables';
+
+// // Base style
+@import './base/common';
+@import './base/base';
+
+// // Partials
+@import './components/header';
+@import './components/main';
+@import './components/footer';
